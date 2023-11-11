@@ -1,0 +1,6 @@
+1. git init
+2. git config --local user.name "Artem"
+3. git config --local user.email "mazur.artem.e@gmail.com"
+4. git status
+5. git add -A
+6. 
