@@ -3,4 +3,5 @@
 3. git config --local user.email "mazur.artem.e@gmail.com"
 4. git status
 5. git add -A
-6. 
+6. git commit -a -m"First commit"   
+7. 
